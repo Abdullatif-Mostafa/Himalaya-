@@ -71,7 +71,7 @@ body
     margin-left: 25px;
 }
 nav.scrolled {
-    background-color:#333; /* Change this to the desired background color */
+    background-color:#222;
   }
 .navbar-toggler
 {
@@ -292,7 +292,6 @@ letter-spacing: 1px;
 .about img:hover
 {
     transform: scale(1.1);
-    /* background: rgba(0, 0, 0, 0.5); */
 }
 
 .data p,.cards p
@@ -304,13 +303,6 @@ letter-spacing: 1px;
    padding-top: 10px;
 }
 
-/* @media (min-width:768px)
-{
-    .data,.cards
-    {
-        max-width: 50%;
-    }
-} */
 /* start the sect_img_with_data *********************************** */
 .sect_img_with_data
 {
