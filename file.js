@@ -11,3 +11,4 @@ console.log("data")
       navbar.classList.remove("scrolled");
     }
   }
+  console.log("data");
